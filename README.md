@@ -117,7 +117,7 @@ Outputs `heaven_hell_plot.png` showing the phase transition at $W_\star$.
 
 
 
-This produces the following plot:  $\text{max}_{\text{rest}}$ is the maximum $\text{rest}_{\text{weight}}$ found in the random graph. As predicted, the system reliably converges to `Glory` precisely when $W$ exceeds this value. 
+This produces the following plot:  $\text{max}\_{\text{rest}}$ is the maximum $\text{rest}_{\text{weight}}$ found in the random graph. As predicted, the system reliably converges to `Glory` precisely when $W$ exceeds this value. 
 
 
 
