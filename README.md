@@ -37,7 +37,7 @@ W_\star=\max_{v\neq g}\text{rest}(v),\qquad
     \text{one round}\iff W\ge W_\star.
 $$
 
-  Sharpness: if $W, there is a specific non-hub that does **not** flip in one round from the all-`Gnash` state.
+  Sharpness: if $W$, there is a specific non-hub that does **not** flip in one round from the all-`Gnash` state.
    (`uniform_hub_one_step_iff`, `uniform_hub_below_threshold_counterexample`)
 
 - **Tie bias $\tau$.** If decisions compare $\mathrm{SG}+\tau(v)$ vs $\mathrm{SN}$,
